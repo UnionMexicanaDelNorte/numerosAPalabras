@@ -14,7 +14,7 @@ Convertir el número
   	strImporte := FloatToString(importe)
 	puntos := strings.Split(strImporte, ".")
 	centavos := puntos[1]
-	str := nuemrosAPalabras.Convert(importe)+" "+centavos+"/100 M.N."
+	str := numerosAPalabras.Convert(importe)+" "+centavos+"/100 M.N."
 		
 ```
 
