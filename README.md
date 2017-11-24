@@ -3,7 +3,7 @@ Convierte números a palabras en Golang, basado en: https://github.com/divan/num
 
 ## Uso
 
-First, import package num2words
+Primero, haz el import del package numerosAPalabras
 
 ```import github.com/UnionMexicanaDelNorte/numerosAPalabras```
 
